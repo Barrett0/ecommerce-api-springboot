@@ -128,7 +128,7 @@ mvn spring-boot:run
 ---
 
 # 📖 Swagger
-![swagger] (screenshots/swagger-completo.png)
+![swagger] (screenshots/swagger-completo.png.png)
 
 
 ```bash
