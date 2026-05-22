@@ -129,7 +129,7 @@ mvn spring-boot:run
 
 # 📖 Swagger
 Acesse:http://localhost:8080/swagger-ui/index.html
-<img src"https://github.com/Barrett0/ecommerce-api-springboot/blob/master/src/main/java/screenshots/produto.png"/>
+
 
 
 
