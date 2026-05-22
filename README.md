@@ -137,7 +137,7 @@ Acesse:http://localhost:8080/swagger-ui/index.html
 # 🔥 Endpoints Principais
 
 ## Produtos
-<img src="screenshots/produto.png" width="900"/>
+<img src="screenshots/produto.png" width="700"/>
 
 
 | Método | Endpoint |
