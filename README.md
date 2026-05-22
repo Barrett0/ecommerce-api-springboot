@@ -129,6 +129,7 @@ mvn spring-boot:run
 
 # 📖 Swagger
 Acesse:http://localhost:8080/swagger-ui/index.html
+<img src="screenshots/produto.png" width="700"/>
 
 
 
@@ -137,7 +138,6 @@ Acesse:http://localhost:8080/swagger-ui/index.html
 # 🔥 Endpoints Principais
 
 ## Produtos
-<img src="screenshots/produto.png" width="700"/>
 
 
 | Método | Endpoint |
