@@ -131,7 +131,7 @@ mvn spring-boot:run
 Acesse:http://localhost:8080/swagger-ui/index.html
 <details>
   <summary>Ver documentaçâo Swagger</summary>
-<img src="./docs/images/swagger-completo.png" width="800"/>
+<img src="./docs/images/swagger.png" width="800"/>
 </details>
 
 ```bash
