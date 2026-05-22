@@ -129,7 +129,7 @@ mvn spring-boot:run
 
 # 📖 Swagger
 Acesse:http://localhost:8080/swagger-ui/index.html
-![Produto](screenshots/produto.png)
+![Produto](./screenshots/produto.png)
 
 
 
