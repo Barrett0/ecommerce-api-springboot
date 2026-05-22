@@ -128,11 +128,11 @@ mvn spring-boot:run
 ---
 
 # 📖 Swagger
+Acesse:http://localhost:8080/swagger-ui/index.html
 ![Swagger](src/main/java/screenshots/swagger-completo.png)
 
 
 ```bash
-http://localhost:8080/swagger-ui/index.html
 ```
 # 🔥 Endpoints Principais
 
