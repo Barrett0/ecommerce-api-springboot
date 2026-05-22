@@ -131,11 +131,14 @@ mvn spring-boot:run
 Acesse:http://localhost:8080/swagger-ui/index.html
 
 
+
 ```bash
 ```
 # 🔥 Endpoints Principais
 
 ## Produtos
+<img src="screenshots/produto.png" width="900"/>
+
 
 | Método | Endpoint |
 |---|---|
