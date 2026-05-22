@@ -129,7 +129,9 @@ mvn spring-boot:run
 
 # 📖 Swagger
 Acesse:http://localhost:8080/swagger-ui/index.html
-<img src="src/main/java/screenshots/swagger-completo.png" widht="900"/>
+<p align="center">
+  <img src="/main/java/screenshots/swagger-completo.png" widht="500"/>
+</p>
 
 ```bash
 ```
