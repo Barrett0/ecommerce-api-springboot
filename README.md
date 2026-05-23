@@ -133,8 +133,12 @@ Acesse:http://localhost:8080/swagger-ui/index.html
 ![Usuário](src/main/java/screenshots/usuario.png)
 ## 📦 Cadastro de Produtos
 ![Produto](src/main/java/screenshots/produto.png)
-
-
+---
+## 🏷️ Cadastro de Categorias
+![Categoria](src/main/java/screenshots/categoria.png)
+---
+## 🔑 Autenticação
+![Auth](src/main/java/screenshots/auth.png)
 
 
 
