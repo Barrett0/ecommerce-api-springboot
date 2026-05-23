@@ -237,4 +237,4 @@ Projeto desenvolvido para prática de:
 
 # 👨‍💻 Autor
 
-Desenvolvido por Barreto 🚀
+Desenvolvido por Bruno Barretto 🚀
