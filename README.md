@@ -129,6 +129,11 @@ mvn spring-boot:run
 
 # 📖 Swagger
 Acesse:http://localhost:8080/swagger-ui/index.html
+## 🔐 Cadastro de Usuário
+![Usuário](src/main/java/screenshots/usuario.png)
+## 📦 Cadastro de Produtos
+![Produto](src/main/java/screenshots/produto.png)
+
 
 
 
